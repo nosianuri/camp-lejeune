@@ -6,6 +6,11 @@ nav {
     padding: 10px 80px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
   }
+
+  .header{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
   #navbar {
     display: flex;
     align-items: center;
@@ -26,12 +31,16 @@ nav {
     text-decoration: none;
     font-size: 1rem;
     font-weight: 600;
-    color: #175acf;
+    color: rgb(55, 50, 50);
     transition: 0.3s ease-in-out;
   }
   #navbar li a:hover,
   #navbar li a.active {
     color: rgb(54, 33, 173);
+  }
+  .phone{
+    color: #fff;
+    text-decoration: none;
   }
   
   #navbar li a:hover::after,
@@ -49,9 +58,9 @@ nav {
     display: none;
   }
 
-  .phone-buton button{
-    background: rgb(54, 33, 173);
-    
+  .phone-buton{
+    background-color: rgb(54, 33, 173);
+    margin-left: 25px;
   }
 
   .phone-buton .phone{

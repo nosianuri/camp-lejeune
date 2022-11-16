@@ -19,6 +19,9 @@
 .card-group{
     margin-top: -80px;
 }
+.card-body{
+    text-align: center;
+}
 
 .card-title{
     font-weight: 700;

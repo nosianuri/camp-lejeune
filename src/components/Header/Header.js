@@ -11,21 +11,22 @@ class Header extends Component {
   render() {
     return (
       <>
-        <nav>
+        <nav className='header'>
           <a href="/">
             <img className='logo' src={logo} alt="Logo" />
           </a>
 
-          <div>
+          
             <ul id='navbar' className={this.state.clicked ? "#navbar active" : "#navbar"}>
               <li>
                 <a className='active' href="/">ABOUT US</a></li>
               <li><a href="/todo">CONTACT US</a></li>
               <li><a href="/calender">PRIVACY POLICY</a></li>
               <li><a href="/tasks">TERMS & CONDITION</a></li>
-              <li className='phone-buton'><button><a href="/phone" className='phone'><i class="fa-solid fa-phone" /> (855) 939-0621</a></button></li>
+              <button className='phone-buton'><a href="/phone" className='phone'><i class="fa-solid fa-phone" /> (855) 939-0621</a></button>
+              
             </ul>
-          </div>
+          
 
           <div id='mobile' onClick={this.handleClick}>
             <i id='bar' className={this.state.clicked ? "fa-solid fa-times" : "fas fa-bars"}></i>

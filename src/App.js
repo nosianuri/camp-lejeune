@@ -10,7 +10,7 @@ import Testimonial from './components/Testimonial/Testimonial';
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       <Header />
       <Banner />
       <Services />

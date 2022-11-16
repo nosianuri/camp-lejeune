@@ -1,5 +1,8 @@
 .blog{
-    margin: 50px;
+    /* margin: 50px; */
+    padding: 50px;
+    background-color: rgb(250, 249, 249);
+    text-align: center;
 }
 
 .blog h1{
