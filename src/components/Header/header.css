@@ -49,6 +49,15 @@ nav {
     display: none;
   }
 
+  .phone-buton button{
+    background: rgb(54, 33, 173);
+    
+  }
+
+  .phone-buton .phone{
+    color: #fff;
+  }
+
   .webapp{
     font-size: 1.3rem;
     padding-left: 10px;
