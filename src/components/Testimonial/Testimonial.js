@@ -10,7 +10,7 @@ const Testimonial = () => {
       
       <h3>"OUR MISSION IS TO PROVIDE HIGH QUALITY ADVICE AND REPRESENTATION BY MAINTAINING THE EXCELLENT STANDARD OF SERVICE THAT OUR NATIONAL HEROES DESERVE."</h3>
       <div className="gpt3__cta-btn">
-      <button type="button">Get Started</button>
+      <button type="button">Call Now</button>
     </div>
     </div>
     

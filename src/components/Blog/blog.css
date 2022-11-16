@@ -2,6 +2,11 @@
     margin: 50px;
 }
 
+.blog h1{
+    padding: 20px;
+    font-weight: 700;
+}
+
 .get-buton button{
     background-color: rgb(54, 33, 173);
     color: #fff;
