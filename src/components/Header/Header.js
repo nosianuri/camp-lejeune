@@ -23,7 +23,7 @@ class Header extends Component {
               <li><a href="/todo">CONTACT US</a></li>
               <li><a href="/calender">PRIVACY POLICY</a></li>
               <li><a href="/tasks">TERMS & CONDITION</a></li>
-              <li className='phone-buton'><button><a href="/phone" className='phone'>(855) 939-0621</a></button></li>
+              <li className='phone-buton'><button><a href="/phone" className='phone'><i class="fa-solid fa-phone" /> (855) 939-0621</a></button></li>
             </ul>
           </div>
 

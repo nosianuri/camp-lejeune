@@ -19,7 +19,7 @@ const About = () => {
                                 <p class="card-text"><small class="text-muted">The U.S. Department of Veteran Affairs (VA) tried to avoid helping US Marines and their families, but a new bipartisan bill allows our heroes to get the help they deserve. Our specialist lawyers can help you and your family get the maximum compensation you deserve.</small></p>
                             </div>
 <div className='get-buton'>
-    <button >(855) 939-0621</button>
+    <button><i class="fa-solid fa-phone" /> (855) 939-0621</button>
 </div>
                         </div>
                     </div>
