@@ -3,11 +3,17 @@
     text-align: center;
     justify-content: center;
 }
+.card-img{
+    text-align: center;
+    justify-content: center;
+}
 
 .card{
     padding: 20px;
     border: 2px solid rgb(240, 236, 236);
-    box-shadow: rgb(80, 74, 74);
+    box-shadow: rgb(55, 50, 50);
+    justify-content: center;
+    
 }
 
 .card-group{
