@@ -1,0 +1,14 @@
+.article{
+    background-image: url(../../assets/banner.jpeg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+}
+.article h1{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+}
