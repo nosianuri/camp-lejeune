@@ -2,6 +2,9 @@
    width: 1000px;
    height: 900px;
 }
+.about{
+    margin: 50px;
+}
 
 .card-body{
     border: #fff;

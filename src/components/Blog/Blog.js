@@ -2,10 +2,11 @@ import React from 'react';
 import img1 from '../../assets/img1.jpg';
 import img2 from '../../assets/img2.jpg';
 import img3 from '../../assets/img3.jpg';
+import './blog.css';
 
 const Blog = () => {
     return (
-        <div>
+        <div className='blog'>
             <div>
             <h1>3 SIMPLE STEPS TO MAKING A CAMP LEJEUNE CLAIM</h1>
             <div className='container'>
