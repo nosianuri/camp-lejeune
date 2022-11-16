@@ -45,3 +45,12 @@ button{
     background-color: rgb(54, 33, 173);
     color: #fff;
 }
+
+@media screen and (max-width: 780px) {
+    .article h1{
+        font-size: 30px;
+        color: white;
+        text-align: center;
+        justify-content: center;
+    }
+}

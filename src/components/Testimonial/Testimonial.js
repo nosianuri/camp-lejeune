@@ -7,12 +7,13 @@ const Testimonial = () => {
          <div className='container'>
       <div className="gpt3__cta">
     <div className="gpt3__cta-content">
-      <p>Request Early Access to Get Started</p>
-      <h3>Register Today & start exploring the endless possibilities.</h3>
-    </div>
-    <div className="gpt3__cta-btn">
+      
+      <h3>"OUR MISSION IS TO PROVIDE HIGH QUALITY ADVICE AND REPRESENTATION BY MAINTAINING THE EXCELLENT STANDARD OF SERVICE THAT OUR NATIONAL HEROES DESERVE."</h3>
+      <div className="gpt3__cta-btn">
       <button type="button">Get Started</button>
     </div>
+    </div>
+    
   </div>
     </div>
     </div>
