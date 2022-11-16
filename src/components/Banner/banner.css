@@ -6,9 +6,42 @@
     background-size: cover;
     display: grid;
     place-items: center;
+    padding: 50px;
 }
 .article h1{
-    font-size: 80px;
+    font-size: 60px;
     color: white;
     text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-right: 140px;
+    padding-left: 140px;
+}
+.article h4{
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+}
+.banner-button{
+    margin: 30px;
+}
+
+button{
+    padding: 10px;
+    border: #fff;
+    
+}
+.phone-button{
+    background-color: rgb(54, 33, 173);
+    color: #fff;
+    margin-right: 25px;
+    margin-bottom: 50px;
+}
+.get-button{
+    background-color: #fff;
+    color: rgb(54, 33, 173);
+}
+.get-button:hover{
+    background-color: rgb(54, 33, 173);
+    color: #fff;
 }
