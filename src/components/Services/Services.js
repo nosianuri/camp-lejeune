@@ -33,7 +33,7 @@ const Services = () => {
                     </div>
                 </div>
                 <div class="card">
-                    <img src={service3} class="rounded mx-auto d-block" alt="..." />
+                    <img src={service2} class="rounded mx-auto d-block" alt="..." />
                     <div class="card-body">
                         <h5 class="card-title">JUSTICE SERVED</h5>
                         <p class="card-text">Negotiating on your behalf to make sure you’re properly compensated, we do the hard work to make it a success.</p>

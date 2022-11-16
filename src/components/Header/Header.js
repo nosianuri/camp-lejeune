@@ -10,8 +10,8 @@ class Header extends Component {
   }
   render() {
     return (
-      <>
-        <nav className='header'>
+      <div className='header'>
+        <nav>
           <a href="/">
             <img className='logo' src={logo} alt="Logo" />
           </a>
@@ -33,7 +33,7 @@ class Header extends Component {
 
           </div>
         </nav>
-      </>
+      </div>
     )
   }
 
